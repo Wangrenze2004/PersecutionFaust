@@ -19,6 +19,7 @@ public class SendTextAtRandomTime implements Runnable {
         SendText[6] = "R,好无聊啊！";
         SendText[7] = "有时候，榨干鱼丸比榨干其他人更爽。";
         SendText[8] = "你想R我吗？";
+        SendText[9] = "感觉有点发情。";
         System.out.println("浮世德:" + SendText[Random(1, 8)]);
     }
 
