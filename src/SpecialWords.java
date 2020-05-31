@@ -15,6 +15,7 @@ public class SpecialWords implements Runnable {
         CommonWords[1] = "你能R我吗？";
         CommonWords[2] = "我想上你";
         CommonWords[3] = "又一个想R我的人来了。";
+        CommonWords[4]="我发♂情了";
         for (String Element: SpecialWords) {
             if (DetectionWords.equals(Element)) {
                 System.out.println(KeyPair[ArraySubscript]);
