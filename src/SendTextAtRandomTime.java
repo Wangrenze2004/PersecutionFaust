@@ -10,7 +10,7 @@ public class SendTextAtRandomTime implements Runnable {
     }
     private static void SendText() {
 
-        String[] SendText=new String[9];
+        String[] SendText=new String[10];
         SendText[1] = "我是RBQ，快来R我！";
         SendText[2] = "好无聊啊，好想被R...";
         SendText[3] = "鱼丸在哪，我想榨干他。。。";
